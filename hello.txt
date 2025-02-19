@@ -1,3 +1,1 @@
-hello git >hello.txt
-
-echo hello git
+git is awesome
